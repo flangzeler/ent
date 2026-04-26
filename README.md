@@ -1,0 +1,2 @@
+# ent
+An ecs library
