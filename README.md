@@ -1,10 +1,4 @@
-diff --git a/README.md b/README.md
-index 38f59ddc5ed2f496ed2918b1458f2c8593d107d9..a7672cceb930bea2f446f0429066f13491f61cf9 100644
---- a/README.md
-+++ b/README.md
-@@ -1,38 +1,365 @@
--# Ent ECS
-+# Ent ECS (C++20)
+
  
 -A high-performance **header-only Archetype ECS** written in modern C++20.
 +`ent` is a high-performance, header-only **archetype ECS** for C++20 focused on game engines and real-time simulation workloads.
